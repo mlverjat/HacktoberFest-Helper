@@ -1,2 +1,2 @@
 # HacktoberFest-Helper
-hactoberfest helper
+Fais ce que tu veux !
